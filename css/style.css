@@ -1,3 +1,4 @@
+/* Default css */
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
 
 :root{
@@ -39,6 +40,8 @@
 *::-webkit-scrollbar-thumb{
    background-color: var(--green-sea);
 }
+
+/* Main css */
 
 html{
    font-size: 62.5%;
@@ -176,6 +179,7 @@ section{
    }
 }
 
+/* Form css */
 .form-container{
    min-height: 100vh;
    background-color: var(--light-bg);
