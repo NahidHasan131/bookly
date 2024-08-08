@@ -61,6 +61,7 @@ section{
    font-size: 2rem;
 }
 
+/* top warning message */
 .message{
    position: sticky;
    top:0;
